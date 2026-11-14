@@ -1,0 +1,18 @@
+Tabla de verdad del operador AND
+
+P      | Q      | P AND Q
+-------|--------|--------
+Verdadero | Verdadero | Verdadero
+Verdadero | Falso     | Falso
+Falso     | Verdadero | Falso
+Falso     | Falso     | Falso
+
+Regla: P AND Q solo es verdadero cuando P y Q son verdaderos al mismo tiempo.
+
+Situación cotidiana:
+Para entrar a un cine necesito tener boleto (P) Y que la película sea apta
+para mi edad (Q). Solo puedo entrar si se cumplen las dos condiciones.
+- Tengo boleto y es apta: entro (Verdadero)
+- Tengo boleto pero no es apta: no entro (Falso)
+- No tengo boleto pero es apta: no entro (Falso)
+- No tengo boleto y no es apta: no entro (Falso)
