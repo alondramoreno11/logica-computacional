@@ -31,3 +31,4 @@ Indicar si el número es par o impar.
 | 8       | Par                |
 | 7       | Impar              |
 | 0       | Par                |
+|-5       | Impar              |
